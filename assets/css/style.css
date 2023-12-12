@@ -111,6 +111,10 @@ body {
     background-size: cover;
 }
 
+.vk{
+    text-align: center;
+}
+
 header .navbar {
     padding: 20px 0 0;
 }
